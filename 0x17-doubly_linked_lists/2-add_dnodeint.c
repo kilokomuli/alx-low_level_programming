@@ -1,8 +1,8 @@
 #include "lists.h"
 /**
  * add_dnodeint - adds new node at the beginning
- * @h: pointer to the head of a doubly linked list
- * *n: value to be stored in th new node
+ * @head: pointer to the head of a doubly linked list
+ * @n: value to be stored in th new node
  * Return: address of the new element, or NULL if it failed
  */
 
